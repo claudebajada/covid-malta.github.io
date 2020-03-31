@@ -9,10 +9,10 @@ items:
     call_to_action_name: Data
     call_to_action_link: /page-1/
   - title: Education
-    subtitle: Educational COVID-19 Content 
+    subtitle: COVID-19 Content 
     icon: fa-graduation-cap
     description: >
-      Here you can find educational videos and sites related to pandemics and COVID-19.
+      Here you can find educational resources related to pandemics.
     call_to_action_name: Education
     call_to_action_link: /page-2/
   - title: Support

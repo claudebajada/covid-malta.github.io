@@ -15,11 +15,11 @@ items:
     description: >
       Here you can find educational resources related to pandemics.
     call_to_action_name: Education
-    call_to_action_link: /education/
+    call_to_action_link: /education
   - title: Support
     subtitle: Support our Frontliners
     icon: fab fa-hands-helping
     description: >
       Here are ways to support our public health services.
     call_to_action_name: Support
-    call_to_action_link: /support/
+    call_to_action_link: /support

@@ -8,7 +8,7 @@ items:
       See local data visualisations.
       Updated regularly.
     call_to_action_name: Data
-    call_to_action_link: /data/
+    call_to_action_link: /data
   - title: Education
     subtitle: COVID-19 Content 
     icon: fa-graduation-cap

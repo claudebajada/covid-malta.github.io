@@ -5,7 +5,8 @@ items:
     subtitle: Get Local Data
     icon: fa-chart-line
     description: >
-      See local data visualisations
+      See local data visualisations.
+      Updated regularly.
     call_to_action_name: Data
     call_to_action_link: /page-1/
   - title: Education

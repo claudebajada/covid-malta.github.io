@@ -1,2 +1,5 @@
 - name: Data
   link: /data
+  
+ -name: Education
+  link: /education

@@ -8,18 +8,18 @@ items:
       See local data visualisations.
       Updated regularly.
     call_to_action_name: Data
-    call_to_action_link: /page-1/
+    call_to_action_link: /data/
   - title: Education
     subtitle: COVID-19 Content 
     icon: fa-graduation-cap
     description: >
       Here you can find educational resources related to pandemics.
     call_to_action_name: Education
-    call_to_action_link: /page-2/
+    call_to_action_link: /education/
   - title: Support
     subtitle: Support our Frontliners
     icon: fab fa-hands-helping
     description: >
       Here are ways to support our public health services.
     call_to_action_name: Support
-    call_to_action_link: /page-3/
+    call_to_action_link: /support/

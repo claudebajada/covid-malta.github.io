@@ -8,19 +8,17 @@ items:
       See local data visualisations
     call_to_action_name: Data
     call_to_action_link: /page-1/
-  - title: Example callout 2
-    subtitle: Example subtitle 2
-    icon: fa-wrench
+  - title: Education
+    subtitle: Educational COVID-19 Content 
+    icon: fa-graduation-cap
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
-    call_to_action_name: Call to action 2
+      Here you can find educational videos and sites related to pandemics and COVID-19.
+    call_to_action_name: Education
     call_to_action_link: /page-2/
-  - title: Example callout 3
-    subtitle: Example subtitle 3
-    icon: fab fa-github
+  - title: Support
+    subtitle: Support our Frontliners
+    icon: fab fa-hands-helping
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
-    call_to_action_name: Call to action 3
+      Here are ways to support our public health services.
+    call_to_action_name: Support
     call_to_action_link: /page-3/

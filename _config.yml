@@ -5,7 +5,7 @@ tagline: COVID-19 Malta
 email: claude@bajada.info
 description: >
   An educational site providing data and information about the novel Coronavirus
-
+baseurl: "/covid-malta.github.io"
 url: "https://covid-malta.github.io/"
 
 

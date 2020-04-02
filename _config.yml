@@ -2,6 +2,9 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 title: COVID-19 Malta
 tagline: COVID-19 Malta
+
+url: "http://testthisthing.com"
+
 google_analytics: UA-162566521-1
 
 author: test

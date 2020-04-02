@@ -2,8 +2,13 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 title: COVID-19 Malta
 tagline: COVID-19 Malta
-url: "http://testthisthing.com"
+email: claude@bajada.info
+description: >
+  An educational site providing data and information about the novel Coronavirus
+
+url: "https://covid-malta.github.io/"
+
 
 google_analytics: UA-162566521-1
 
-author: test
+author: Claude Bajada

@@ -3,6 +3,8 @@ remote_theme: chrisrhymes/bulma-clean-theme
 title: COVID-19 Malta
 tagline: COVID-19 Malta
 
+hero_image: /stay-at-home-4956906.svg
+
 url: "http://testthisthing.com"
 
 google_analytics: UA-162566521-1

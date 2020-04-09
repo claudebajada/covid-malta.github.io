@@ -2,9 +2,9 @@
   link: /local_data
   dropdown:
     - name: Local Data
-    - link: /local_data/
+    - link: /local_data
     - name: European Data
-    - link: /europe_data/
+    - link: /europe_data
 - name: Education
   link: /education
 - name: Support
